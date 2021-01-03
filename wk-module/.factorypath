@@ -1,0 +1,6 @@
+<factorypath>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/projectlombok/lombok/1.18.10/lombok-1.18.10.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/nutz/nutz-plugins-validation/1.r.68-SNAPSHOT/nutz-plugins-validation-1.r.68-SNAPSHOT.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/nutz/nutz/1.r.68-SNAPSHOT/nutz-1.r.68-SNAPSHOT.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/nutz/nutz-integration-json4excel/1.r.68-SNAPSHOT/nutz-integration-json4excel-1.r.68-SNAPSHOT.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>
